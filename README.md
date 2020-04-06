@@ -1,5 +1,5 @@
 # sample
 
-commit from master branch 5
+commit from master branch 6
 
 commit after new-branch
