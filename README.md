@@ -1,5 +1,4 @@
 # sample
 
-commit from master branch 7 avec commentaire sur plusieurs lignes
-
+commit from master branch 8
 commit after new-branch
