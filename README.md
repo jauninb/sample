@@ -1,4 +1,4 @@
 # sample
 
-commit from master branch 15 for multiline
+commit from master branch
 commit after new-branch
