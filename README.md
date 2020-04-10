@@ -1,4 +1,4 @@
 # sample
 
-commit from master branch - 3
+test commit status - 1
 commit after new-branch
