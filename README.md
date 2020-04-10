@@ -1,4 +1,3 @@
 # sample
 
-test commit status - 1
-commit after new-branch
+test pour maj status 5
