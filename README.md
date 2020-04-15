@@ -1,3 +1,3 @@
 # sample
 
-test avec tkn beta branch
+test avec commit message one line
