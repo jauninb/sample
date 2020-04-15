@@ -1,3 +1,3 @@
 # sample
 
-test avec commit message one line
+test avec commit message sur plusieurs lignes
