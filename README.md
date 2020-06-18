@@ -1,3 +1,3 @@
 # sample
 
-test avec commit message sur plusieurs lignes mais skip commit
+maj dans branch new-branch
