@@ -1,3 +1,3 @@
 # sample
 
-maj dans branch new-branch
+maj dans branch new-branch !
